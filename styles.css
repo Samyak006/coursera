@@ -23,7 +23,7 @@
 		
 		#chicken{
 			position: relative;
-			left:75%;
+			left:80%;
 			display: block;
 			background-color: pink;
 			color:#aa6253;
@@ -32,7 +32,7 @@
 		}
 		#lamb{
 			position: relative;
-			left:75%;
+			left:80%;
 			display: block;
 			background-color: pink;
 			color:#aa6253;
@@ -41,7 +41,7 @@
 		}
 		#fish{
 			position: relative;
-			left:75%;
+			left:80%;
 			display: block;
 			background-color: pink;
 			color:#aa6253;
